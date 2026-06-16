@@ -8,11 +8,11 @@ The case has a stand at the bottom, making the angle adjustable.
 ![alt text](images/Flat.png "Assembly laying flat")
 ![alt text](images/standing.png "Assembly on stand")
 # BOM
-4x Cherry MX Switches
-4x any Keycap
-4x M3x5x4 Heatset inserts
-4x M3x16mm SHCS Bolts
-16x 1N4148 DO-35 Diodes.
-1x 0.91" 128x32 OLED Display
-1x XIAO RP2040
-1x Case (2 prints, 1 of them have 3 print in place parts)
+- 4x Cherry MX Switches
+- 4x any Keycap
+- 4x M3x5x4 Heatset inserts
+- 4x M3x16mm SHCS Bolts
+- 16x 1N4148 DO-35 Diodes.
+- 1x 0.91" 128x32 OLED Display
+- 1x XIAO RP2040
+- 1x Case (2 prints, 1 of them have 3 print in place parts)
