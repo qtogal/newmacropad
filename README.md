@@ -3,10 +3,10 @@ This is my first macropad and my first time making a custom pcb. This macropad c
 
 ![alt text](https://github.com/qtogal/newmacropad/edit/main/images/Case.png "case")
 The case has a stand at the bottom, making the angle adjustable. 
-![alt text](https://github.com/qtogal/newmacropad/edit/main/images/Schematic.png "Schematic")
-![alt text](https://github.com/qtogal/newmacropad/edit/main/images/PCB.png "PCB")
-![alt text](https://github.com/qtogal/newmacropad/edit/main/images/Flat.png "Assembly laying flat")
-![alt text](https://github.com/qtogal/newmacropad/edit/main/images/Standing.png "Assembly on stand")
+![alt text](https://github.com/qtogal/newmacropad/main/images/Schematic.png "Schematic")
+![alt text](https://github.com/qtogal/newmacropad/main/images/PCB.png "PCB")
+![alt text](https://github.com/qtogal/newmacropad/main/images/Flat.png "Assembly laying flat")
+![alt text](https://github.com/qtogal/newmacropad/main/images/Standing.png "Assembly on stand")
 # BOM
 4x Cherry MX Switches
 4x any Keycap
