@@ -1,9 +1,9 @@
 # newmacropad
 This is my first macropad and my first time making a custom pcb. This macropad case comes with a stand so you can use it sort of like a stream deck. 
 
-![alt text](https://github.com/qtogal/newmacropad/edit/main/images/Case.png "case")
+![alt text](images/Case.png "case")
 The case has a stand at the bottom, making the angle adjustable. 
-![alt text](https://github.com/qtogal/newmacropad/main/images/Schematic.png "Schematic")
+![alt text](images/Case.png "Schematic")
 ![alt text](https://github.com/qtogal/newmacropad/main/images/PCB.png "PCB")
 ![alt text](https://github.com/qtogal/newmacropad/main/images/Flat.png "Assembly laying flat")
 ![alt text](https://github.com/qtogal/newmacropad/main/images/Standing.png "Assembly on stand")
